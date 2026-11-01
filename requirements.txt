@@ -9,7 +9,7 @@ mccabe==0.6.1
 nose==1.3.7
 numpy==1.22.0
 pandas==0.24.2
-pylint==1.9.4
+pylint==4.0.9
 python-dateutil==2.8.0
 pytz==2019.2
 singledispatch==3.4.0.3
